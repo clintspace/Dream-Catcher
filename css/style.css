@@ -375,6 +375,7 @@ button {
      border-radius: 50px;
      color: #fff;
      font-size: 20px;
+     text-align: center;
      transition: ease-in 0.5s;
      display: block;
 }
