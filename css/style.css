@@ -296,6 +296,20 @@ button {
      padding: 15px 0px 15px 0px;
      background: #fff;
 }
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
 
 
 /** banner section **/
@@ -845,7 +859,7 @@ ul.link_menu li a:hover {
 .sub_btn {
      font-size: 17px;
      transition: ease-in all 0.5s;
-     background-color: #fff;
+     background-color: #ffffff;
      color: #cfa641;
      padding: 8px 0px;
      max-width: 147px;
@@ -858,7 +872,7 @@ ul.link_menu li a:hover {
 .sub_btn:hover {
      background-color: #cfa641;
      transition: ease-in all 0.5s;
-     color: #fff;
+     color: #ffffff;
 }
 
 ul.social_icon {
@@ -889,7 +903,7 @@ ul.social_icon li a:hover {
 .copyright {
      margin-top: 60px;
      padding-bottom: 20px;
-     background-color: #fff;
+     background-color: #ffffff;
      border: #cfa641 solid 3px;
      border-right: inherit;
      border-left: inherit;
@@ -925,7 +939,7 @@ ul.social_icon li a:hover {
      text-align: center;
 }
 .back_re .title h2 {
-color:#fff;
+color:#ffffff;
 font-size: 40px;
 padding: 40px 0;
 font-weight: 600;
