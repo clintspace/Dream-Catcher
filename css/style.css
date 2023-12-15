@@ -920,11 +920,11 @@ ul.social_icon li a:hover {
 }
 
 .copyright a {
-     color: #000;
+     color: #d51212;
 }
 
 .copyright a:hover {
-     color: #cfa641;
+     color: #f20909;
 }
 
 
@@ -939,7 +939,7 @@ ul.social_icon li a:hover {
      text-align: center;
 }
 .back_re .title h2 {
-color:#ffffff;
+color:#161515;
 font-size: 40px;
 padding: 40px 0;
 font-weight: 600;
